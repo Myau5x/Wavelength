@@ -24,14 +24,7 @@
     --web-scale-on-resize: true;
     --web-enable-deep-linking: true;
 }
-#Navigation_Bar {
-    position: absolute;
-    width: 1366px;
-    height: 70px;
-    left: 0px;
-    top: 0px;
-    overflow: visible;
-}
+
 #Base {
     fill: rgba(197,225,228,1);
 }
@@ -51,7 +44,7 @@
     width: 32px;
     white-space: nowrap;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans, 'Poppins','Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -65,7 +58,7 @@
     width: 137px;
     white-space: nowrap;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans,'Poppins', 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 25px;
@@ -79,7 +72,7 @@
     width: 79px;
     white-space: nowrap;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans, 'Poppins','Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -93,7 +86,7 @@
     width: 38px;
     white-space: nowrap;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans, 'Poppins','Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -402,7 +395,7 @@
     width: 259px;
     white-space: nowrap;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans,'Poppins', 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 50px;
@@ -434,20 +427,7 @@
     top: 27px;
     transform: matrix(1,0,0,1,0,0);
 }
-#Search {
-    left: 99.5px;
-    top: 0px;
-    position: absolute;
-    overflow: visible;
-    width: 62px;
-    white-space: nowrap;
-    text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
-    font-style: normal;
-    font-weight: bold;
-    font-size: 20px;
-    color: rgba(55,55,55,1);
-}
+
 #Icon_ionic-ios-search {
     fill: rgba(55,55,55,1);
 }
@@ -894,7 +874,7 @@
     width: 307px;
     white-space: nowrap;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans, 'Poppins', sans-serif;
     font-style: normal;
     font-weight: bold;
     font-size: 20px;
@@ -909,7 +889,7 @@
     width: 257px;
     height: 50px;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans, 'Poppins','Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
@@ -923,7 +903,7 @@
     width: 78px;
     white-space: nowrap;
     text-align: left;
-    font-family: RooneySans, 'Source Sans Pro', sans-serif;
+    font-family: RooneySans, 'Poppins', 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: normal;
     font-size: 15px;
