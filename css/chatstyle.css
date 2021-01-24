@@ -37,7 +37,10 @@ body {
   display: flex;
   flex-flow: column wrap;
 }
-
+#selected {
+  font-weight: 600;
+  font-size: 20px;
+}
 #pals {
   color: black;
   font-size: 30px;
