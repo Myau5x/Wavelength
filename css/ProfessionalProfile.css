@@ -37,7 +37,7 @@ body {
 #img2 {
   position: absolute;
   top: 15px;
-  left: 44%;
+  left: 41%;
 }
 
 #name {
@@ -118,6 +118,11 @@ body {
   border: 3px solid #ffae42;
   border-radius: 30px;
   text-align: center;
+}
+
+a:hover{
+  text-decoration: none;
+  color:;
 }
 
 .title {
