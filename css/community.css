@@ -37,6 +37,11 @@ input:focus{
     border: none;
 }
 
+.top-body a:hover {
+  text-decoration: none;
+  color: white;
+}
+
 
 .card-img-top{
     border: 3px solid #FFAE42;
@@ -47,5 +52,16 @@ input:focus{
     border: 3px solid #FFAE42;
     border-top: 0;
     height: 180px;
+    text-align: center;
+}
+
+.card-body h5{
+     font-weight: 600;
+}
+
+.card-body a:hover{
+    cursor: pointer;
+    color: #C5E1E4;
+    text-decoration: none;
 }
 
